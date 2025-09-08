@@ -39,47 +39,5 @@
 
 </div>
 
----
 
-<div align="center">
 
-## 🎯 What I Build
-
-\`\`\`typescript
-const Kennedy = {
-    code: ["TypeScript", "Solidity", "JavaScript"],
-    tools: ["Hardhat", "Foundry", "Remix", "Ethers.js"],
-    architecture: ["Smart Contracts", "DApps", "DeFi Protocols", "NFT Systems"],
-    blockchain: ["Ethereum", "Polygon", "Arbitrum", "Base"],
-    currentFocus: "Building decentralized financial solutions",
-    funFact: "I debug smart contracts like others debug regular code",
-    motto: "Code is law, but good code is better law"
-};
-\`\`\`
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Current Vibes
-
-🏗️ **Building:** Next-gen DeFi protocols with advanced yield strategies  
-⚡ **Learning:** Zero-knowledge proofs and Layer 2 scaling solutions  
-🎮 **Experimenting:** GameFi mechanics and on-chain gaming logic  
-🔐 **Securing:** Multi-sig wallets and governance contracts  
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Tech Philosophy
-
-> *"In Web3, we don't just write code - we architect the future of finance, ownership, and digital interaction. Every smart contract is a piece of immutable history."*
-
-**Building decentralized dreams, one block at a time** ⛓️
-
-</div>
