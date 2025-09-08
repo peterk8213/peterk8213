@@ -24,12 +24,18 @@
 
 ---
 
+<!-- Removed all GitHub stats sections and enhanced Web3 focus -->
+
 <div align="center">
 
-## 📊 GitHub Analytics
+## 🌐 Web3 Ecosystem
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 
 </div>
 
@@ -42,10 +48,12 @@
 \`\`\`typescript
 const Kennedy = {
     code: ["TypeScript", "Solidity", "JavaScript"],
-    tools: ["Hardhat", "Foundry", "Remix", "MetaMask"],
-    architecture: ["Smart Contracts", "DApps", "DeFi Protocols"],
+    tools: ["Hardhat", "Foundry", "Remix", "Ethers.js"],
+    architecture: ["Smart Contracts", "DApps", "DeFi Protocols", "NFT Systems"],
+    blockchain: ["Ethereum", "Polygon", "Arbitrum", "Base"],
     currentFocus: "Building decentralized financial solutions",
-    funFact: "I debug smart contracts like others debug regular code"
+    funFact: "I debug smart contracts like others debug regular code",
+    motto: "Code is law, but good code is better law"
 };
 \`\`\`
 
@@ -55,24 +63,12 @@ const Kennedy = {
 
 <div align="center">
 
-## 🔥 Current Streak
+## 🔥 Current Vibes
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-<a href="https://github.com/yourusername/defi-protocol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=defi-protocol&theme=tokyonight" />
-</a>
-<a href="https://github.com/yourusername/nft-marketplace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nft-marketplace&theme=tokyonight" />
-</a>
+🏗️ **Building:** Next-gen DeFi protocols with advanced yield strategies  
+⚡ **Learning:** Zero-knowledge proofs and Layer 2 scaling solutions  
+🎮 **Experimenting:** GameFi mechanics and on-chain gaming logic  
+🔐 **Securing:** Multi-sig wallets and governance contracts  
 
 </div>
 
@@ -80,27 +76,10 @@ const Kennedy = {
 
 <div align="center">
 
-## 📈 Activity Graph
+## 🚀 Tech Philosophy
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+> *"In Web3, we don't just write code - we architect the future of finance, ownership, and digital interaction. Every smart contract is a piece of immutable history."*
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-**🔗 Building the decentralized future, one smart contract at a time**
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+**Building decentralized dreams, one block at a time** ⛓️
 
 </div>
